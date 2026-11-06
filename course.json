@@ -1,0 +1,33 @@
+{
+  "course_id": "ICB-F09",
+  "repository": "icb-f09-quality-credentialing-how-trust-built",
+  "repository_url": "https://github.com/ICoBC/icb-f09-quality-credentialing-how-trust-built",
+  "title": "Quality in Credentialing: How Trust Is Built",
+  "subtitle": "An introduction to quality assurance for credentials and to the VRITE criteria.",
+  "version": "1.0.0",
+  "series": "Foundation",
+  "skill": "Quality assurance and accreditation",
+  "level": "1",
+  "level_name": "Contribute",
+  "stage": "K",
+  "stage_name": "Knowledge",
+  "alignment_code": "ICSF-QUAL-L1-K",
+  "badge_name": "Quality in Credentialing: How Trust Is Built (Knowledge, L1)",
+  "hours": "2",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-f09/",
+  "parts": [
+    "About this course",
+    "The trust problem",
+    "Quality signals readers look for",
+    "VRITE: Value, Rigor, Impact, Trustworthiness, Experience",
+    "Internal and external quality assurance",
+    "Where are you now?",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 12,
+  "practice_questions": 21
+}
